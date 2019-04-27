@@ -1,0 +1,24 @@
+{
+  "name": "chat-test-2",
+  "version": "1.0.0",
+  "description": "chat test 2 with socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingbingma/chat-test-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bingbingma/chat-test-2/issues"
+  },
+  "homepage": "https://github.com/bingbingma/chat-test-2#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0"
+  }
+}
